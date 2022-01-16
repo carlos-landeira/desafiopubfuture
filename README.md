@@ -3,9 +3,7 @@
 O software foi programado usando a linguagem Python 3 (ver. 3.9.9)
 
 1 - Clonar o repositório para seu computador:
- a.git clone https://github.com/carlos-landeira/desafiopubfuture.git
- b.cd desafiopubfuture
-  (Você pode clonar pelo site do github também, basta ir no link (https://github.com/carlos-landeira/desafiopubfuture), clicar em "Code", e clicar em "Download ZIP").
+  Para clonar a pasta pelo site do Githun basta ir no link (https://github.com/carlos-landeira/desafiopubfuture), clicar em "Code", e clicar em "Download ZIP".
 
 2 - Instalar as bibliotecas:
   > python -m pip install -r desafiopubfuture/requirements.txt
